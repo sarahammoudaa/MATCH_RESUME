@@ -3,7 +3,7 @@
 ![MATCH_RESUME Screenshot](demo.png)
 
 
-Welcome to **MATCH_RESUME** — an intelligent Job Description and Resume Matching System built with Python and Machine Learning!  
+Welcome to **MATCH_RESUME**
 
 This project automates the recruitment process by intelligently comparing job descriptions with candidate resumes, giving recruiters a **fast, accurate, and data-driven way to identify the best-fit candidates**.  
 
